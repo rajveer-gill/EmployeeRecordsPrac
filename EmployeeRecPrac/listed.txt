@@ -1,0 +1,11 @@
+Name                Social Security     Department ID  Years Employed Salary         
+
+Bill       Tarpon    182460678           789            8              30600.00       
+Fred       Caldron   456905434           789            10             40700.00       
+Sally      Bender    203932239           790            8              50000.00       
+David      Kemp      568903493           790            9              60000.00       
+
+
+The average number of years employed is 8
+
+The average salary is $45325.00
