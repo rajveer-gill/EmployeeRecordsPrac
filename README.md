@@ -8,3 +8,6 @@ This project is able to read data from foreign files. It is also able to convert
 
 ## How to use
 In order to use the code for this project, download the zip file and open it. From there, upload the project and its contents to your local compiler. You can find a large variety of C compilers online to use.
+
+## Technologies 
+
