@@ -10,4 +10,7 @@ This project is able to read data from foreign files. It is also able to convert
 In order to use the code for this project, download the zip file and open it. From there, upload the project and its contents to your local compiler. You can find a large variety of C compilers online to use.
 
 ## Technologies 
+The system used to create this app was a MacBook Pro. The MacBook Pro has an 8-Core Intel Core i9 processor and 16 GB of memory.
 
+## Collaboraters
+I was able to accomplish this with the assistance of Pearson's Starting out with C++ sixth edition lab manual.
